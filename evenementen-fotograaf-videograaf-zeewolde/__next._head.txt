@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[19913,["/_next/static/chunks/b1f707fbc604400d.js","/_next/static/chunks/78d10733d987c4c2.js"],"ViewportBoundary"]
+3:I[19913,["/_next/static/chunks/b1f707fbc604400d.js","/_next/static/chunks/78d10733d987c4c2.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[74743,["/_next/static/chunks/b1f707fbc604400d.js","/_next/static/chunks/78d10733d987c4c2.js"],"IconMark"]
+0:{"buildId":"IhPBRKUvuk_cZvGayE-Ou","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Evenementen fotograaf en videograaf in Zeewolde | Second Shot Media | Second Shot Media"}],["$","meta","1",{"name":"description","content":"Op zoek naar een evenementen fotograaf en videograaf in Zeewolde? Professionele fotografie en videografie voor congressen, bedrijfsfeesten en festivals in Zeewolde."}],["$","link","2",{"rel":"icon","href":"/icon.png?icon.fbe6fd29.png","sizes":"512x512","type":"image/png"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
